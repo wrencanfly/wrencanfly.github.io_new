@@ -3,7 +3,7 @@
 title: 宋迎煒
 
 # Name pronunciation (optional)
-name_pronunciation: Yang-Way Soong
+name_pronunciation: Yang Way Soong
 
 # Full name (for SEO)
 first_name: Yingwei
