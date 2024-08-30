@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 宋迎煒
+title: Yingwei Song
 
 # Name pronunciation (optional)
-name_pronunciation: Yang Way Soong
+name_pronunciation: Yang-Way-Soong
 
 # Full name (for SEO)
 first_name: Yingwei
